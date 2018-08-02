@@ -1,0 +1,11 @@
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\bin\Debug\netcoreapp2.0\AplicacaoASPNETCore.deps.json
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\bin\Debug\netcoreapp2.0\AplicacaoASPNETCore.runtimeconfig.json
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\bin\Debug\netcoreapp2.0\AplicacaoASPNETCore.runtimeconfig.dev.json
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\bin\Debug\netcoreapp2.0\AplicacaoASPNETCore.dll
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\bin\Debug\netcoreapp2.0\AplicacaoASPNETCore.pdb
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\obj\Debug\netcoreapp2.0\AplicacaoASPNETCore.csprojAssemblyReference.cache
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\obj\Debug\netcoreapp2.0\AplicacaoASPNETCore.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\obj\Debug\netcoreapp2.0\AplicacaoASPNETCore.AssemblyInfoInputs.cache
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\obj\Debug\netcoreapp2.0\AplicacaoASPNETCore.AssemblyInfo.cs
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\obj\Debug\netcoreapp2.0\AplicacaoASPNETCore.dll
+C:\Users\julia\Documents\Visual Studio 2017\Projects\AplicacaoASPNETCore\AplicacaoASPNETCore\obj\Debug\netcoreapp2.0\AplicacaoASPNETCore.pdb
